@@ -1,0 +1,65 @@
+﻿year,Group(小組分組),Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Goal_dif,Result
+2018,Group A,Russia,5,0,Saudi Arabia,5,1
+2018,Group A,Egypt,0,1,Uruguay,-1,0
+2018,Group B,Portugal,3,3,Spain,0,0
+2018,Group B,Morocco,0,1,IR Iran,-1,0
+2018,Group C,France,2,1,Australia,1,1
+2018,Group C,Peru,0,1,Denmark,-1,0
+2018,Group D,Argentina,1,1,Iceland,0,0
+2018,Group D,Croatia,2,0,Nigeria,2,1
+2018,Group E,Brazil,1,1,Switzerland,0,0
+2018,Group E,Costa Rica,0,1,Serbia,-1,0
+2018,Group F,Germany,0,1,Mexico,-1,0
+2018,Group F,Sweden,1,0,Korea Republic,1,1
+2018,Group G,Belgium,3,0,Panama,3,1
+2018,Group G,Tunisia,1,2,England,-1,0
+2018,Group H,Poland,1,2,Senegal,-1,0
+2018,Group H,Colombia,1,2,Japan,-1,0
+2018,Group A,Russia,3,1,Egypt,2,1
+2018,Group A,Uruguay,1,0,Saudi Arabia,1,1
+2018,Group B,Portugal,1,0,Morocco,1,1
+2018,Group B,IR Iran,0,1,Spain,-1,0
+2018,Group C,France,1,0,Peru,1,1
+2018,Group C,Denmark,1,1,Australia,0,0
+2018,Group D,Argentina,0,3,France,-3,0
+2018,Group D,Nigeria,2,0,Iceland,2,1
+2018,Group E,Brazil,2,0,Costa Rica,2,1
+2018,Group E,Serbia,1,2,Switzerland,-1,0
+2018,Group F,Germany,2,1,Sweden,1,1
+2018,Group F,Korea Republic,1,2,Mexico,-1,0
+2018,Group G,Belgium,5,2,Tunisia,3,1
+2018,Group G,England,6,1,Panama,5,1
+2018,Group H,Poland,0,3,Colombia,-3,0
+2018,Group H,Japan,2,2,Senegal,0,0
+2018,Group A,Uruguay,3,0,Russia,3,1
+2018,Group A,Saudi Arabia,2,1,Egypt,1,1
+2018,Group B,IR Iran,1,1,Portugal,0,0
+2018,Group B,Spain,2,2,Morocco,0,0
+2018,Group C,Denmark,0,0,France,0,0
+2018,Group C,Australia,0,2,Peru,-2,0
+2018,Group D,Nigeria,1,2,Argentina,-1,0
+2018,Group D,Iceland,1,2,Croatia,-1,0
+2018,Group E,Serbia,0,2,Brazil,-2,0
+2018,Group E,Switzerland,2,2,Costa Rica,0,0
+2018,Group F,Korea Republic,2,0,Germany,2,1
+2018,Group F,Mexico,0,3,Sweden,-3,0
+2018,Group G,England,0,1,Belgium,-1,0
+2018,Group G,Panama,1,2,Tunisia,-1,0
+2018,Group H,Japan,0,1,Poland,-1,0
+2018,Group H,Senegal,0,1,Colombia,-1,0
+2018,Round of 16,Uruguay,2,1,Portugal,1,1
+2018,Round of 16,France,4,3,Argentina,1,1
+2018,Round of 16,Spain,1,1,Russia,0,0
+2018,Round of 16,Croatia,1,1,Denmark,0,0
+2018,Round of 16,Brazil,2,0,Mexico,2,1
+2018,Round of 16,Belgium,3,2,Japan,1,1
+2018,Round of 16,Sweden,1,0,Switzerland,1,1
+2018,Round of 16,Colombia,1,1,England,0,0
+2018,Quarter-final,Uruguay,0,2,France,-2,0
+2018,Quarter-final,Brazil,1,2,Belgium,-1,0
+2018,Quarter-final,Russia,2,2,Croatia,0,0
+2018,Quarter-final,Sweden,0,2,England,-2,0
+2018,Semi-final,France,1,0,Belgium,1,1
+2018,Semi-final,Croatia,2,1,England,1,1
+2018,Play-off for third place,Belgium,2,0,England,2,1
+2018,Final,France,4,2,Croatia,2,1
